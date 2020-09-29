@@ -79,3 +79,24 @@ G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Pro
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.pdb
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.yaml
+W:\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.Development.json
+W:\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.json
+W:\ProductsModule\Product\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+W:\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.exe
+W:\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.yaml
+W:\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+W:\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+W:\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+W:\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.dll
+W:\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.pdb
+W:\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+W:\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+W:\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+W:\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+W:\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.MvcApplicationPartsAssemblyInfo.cache
+W:\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.RazorTargetAssemblyInfo.cache
+W:\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.Manifest.cache
+W:\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.xml
+W:\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.dll
+W:\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.pdb
+W:\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
